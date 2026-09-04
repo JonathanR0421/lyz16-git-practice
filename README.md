@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Jonathan Roper
+--**Name:** Jonathan (@JonathanR0421)
 - **Hobby:** Building Computers
 - **Preferred Development Tool:** VS Code
